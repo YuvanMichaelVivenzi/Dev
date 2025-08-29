@@ -1,10 +1,11 @@
-a = int(input())
-b = int(input())
-c = a ** b
-d = b ** a
-if c > d:
-    print("a to the power of b is greater")
-    print(c)
+year = int(input())
+if (year % 4) == 0:
+    if (year % 100) == 0:
+        if (year % 400) == 0:
+            print(str(year) + " is a leap year")
+        else:
+            print(str(year) + " is not a leap year")
+    else:
+        print(str(year) + " is a leap year")
 else:
-    print("b to the power of a is greater")
-    print(d)
+    print(str(year) + " is not a leap year")
