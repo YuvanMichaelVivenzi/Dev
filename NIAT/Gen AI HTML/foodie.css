@@ -9,6 +9,7 @@
 .heading {
     font-family: Playfair Display;
     color: #ecf0f1;
+    font-weight: bold;
 }
 
 .heading2 {
@@ -36,7 +37,7 @@
 }
 
 .container2 {
-    border-width: 2px;
+    border-width: 1px;
     border-style: solid;
     border-radius: 25px;
     border-color: #ecf0f1;
@@ -44,7 +45,22 @@
     margin: 20px;
 }
 
+.container3 {
+    margin-left: 20px;
+    text-align: left;
+}
+
 .image {
-    height: 100px;
-    width: 50px;
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+}
+
+.button {
+    margin-top: 10px;
+    border-radius: 10px;
+    font-family: Roboto;
+    color: #ecf0f1;
+    border-color: #ecf0f1;
+    width: 120px;
 }
