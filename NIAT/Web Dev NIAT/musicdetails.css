@@ -2,14 +2,26 @@
 .musicdetailscontainer {
     background-color: #03174c;
     font-family: Bree Serif;
+    padding: 10px;
 }
 .image1 {
     width: 400px;
 }
 .headingnightisland {
     color: white;
+    padding: 30px;
 }
 .paragraphnightisland {
+    color: #98a1bd;
+    font-size: 15px;
+    padding-left: 30px;
+}
+.headingrelated {
     color: white;
-    font-size: 20px;
+    padding: 30px;
+    font-size: 25px;
+}
+.image2 {
+    width: 200px;
+    padding: 10px;
 }

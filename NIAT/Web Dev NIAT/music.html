@@ -9,7 +9,7 @@
 </head>
 <link rel="stylesheet" href="music.css">
 <body>
-    <div class="main-container">
+    <div class="main-container" id="sectionhome">
         <div class="container1">
             <h1 class="heading1">Sleep Music</h1>
             <p class="paragraph1">
@@ -22,8 +22,31 @@
             <p class="paragraph1">
                 Non-stop 8-hour mixes of our most popular sleep audio
             </p>
-            <button class="btn button1">Get Started</button>
+            <button class="btn button1" onclick="display('sectionmusicdetails')">Get Started</button>
         </div>
+    </div>
+    <link rel="stylesheet" href="musicdetails.css">k
+        <div class="musicdetailscontainer" id="sectionmusicdetails">
+        <img src="https://d2clawv67efefq.cloudfront.net/ccbp-static-website/clouds-img.png" class="image1">
+        <h1 class="headingnightisland">Night Island</h1>
+        <p class="paragraphnightisland">
+            Ease the mind into a restful night's sleep with these deep, ambient tones.
+        </p>
+        <p class="paragraphnightisland">45 MIN SLEEP MUSIC</p>
+        <h1 class="headingrelated"> Related</h1>
+        <div class="related-container d-flex flex-row">
+            <div class="moon-clouds d-flex flex-column">
+                <img src="https://d2clawv67efefq.cloudfront.net/ccbp-static-website/moon-clouds-img.png" class="image2">
+                <h1 class="headingrelated">Moon Clouds</h1>
+                <p class="paragraphnightisland">55 MIN SLEEP MUSIC</p>
+            </div>
+            <div class="moon-clouds d-flex flex-column">
+                <img src="https://d2clawv67efefq.cloudfront.net/ccbp-static-website/sweet-sleep-img.png" class="image2">
+                <h1 class="headingrelated">Sweet Sleep</h1>
+                <p class="paragraphnightisland">60 MIN SLEEP MUSIC</p>
+            </div>
+        </div>
+        <button class="btn button1" onclick="display('sectionhome')">Back</button>
     </div>
     <script type="text/javascript" src="https://new-assets.ccbp.in/frontend/content/static-ccbp-ui-kit/static-ccbp-ui-kit.js"></script>
 </body>
