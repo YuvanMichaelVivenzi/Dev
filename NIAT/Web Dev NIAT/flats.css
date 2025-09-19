@@ -1,0 +1,94 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.main-container-homepage {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    background-size: cover;
+    padding-top: 425px;
+    font-family: Bree Serif;
+    text-align: center;
+}
+
+.card-container-bottom-homepage {
+    background-color: #ffffff;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.heading-homepage {
+    padding-top: 50px;
+    color: #f19116;
+}
+
+.paragraph-homepage {
+    color: #7b8794;
+}
+
+.button-homepage {
+    background-color: #f19116;
+    color: #ffffff;
+    margin-top: 25px;
+}
+
+.main-container-flatslistpage {
+    font-family: Bree Serif;
+    padding-left: 10px;
+    background-color: #222222;
+}
+
+.heading-flatslistpage {
+    color: #f19116;
+    padding-top: 10px;
+}
+
+.imageflatslistcard1 {
+    height: 195px;
+    width: 100px;
+    border-bottom-right-radius: 0px;
+    border-top-right-radius: 0px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+.card1 {
+    background-color: #ffffff;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: auto;
+    width: 280px;
+}
+
+.cards-heading {
+    padding-left: 10px;
+}
+
+.cards {
+    margin-bottom: 30px;
+}
+
+.back-button {
+    width: 100px;
+    margin-left: 5px;
+    margin-bottom: 30px;
+}
+
+.imageflatdetails {
+    width: 400px;
+    height: 300px;
+}
+
+.locationicon {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    height: 50px;
+}
+
+.location-info {
+    color: #ffffff;
+    margin-top: 35px;
+    margin-bottom: 25px;
+    margin-left: 10px;
+}
+
+.flat-details-button {
+    margin-left: 40px;
+}
