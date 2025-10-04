@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.top-container {
+    background-color: #FF4500;
+}
+
+.heading1 {
+    font-family: Caveat;
+    color: white;
+}
+
+.paragraph1 {
+    color: white;
+    margin: 10px;
+}
+
+.container2 {
+    background-color: white;
+}
+
+.container3 {
+    background-color: white;
+    border-width: 2px;
+    border-radius: 50px;
+    border-style: dashed;
+    border-color: #FFA07A;
+    padding: 10px;
+    margin: 10px;
+}
+
+.container4 {
+    background-color: #FFFAF0;
+    padding: 10px;
+    border-radius: 50px;
+}
+
+.paragraph2 {
+    color: #8B0000;
+}
+
+.heading2 {
+    color: #B22222;
+}
+
+.heading3 {
+    font-family: Playfair Display;
+}
+
+.container5 {
+    background-color: white;
+    padding: 10px;
+    border-radius: 50px;
+}
+
+.heading4 {
+    font-family: Playfair Display;
+    color: #B22222;
+}
+
+.paragraph4 {
+    font-family: Roboto;
+    color: #B22222;
+}
+
+.list-item {
+    font-family: Roboto;
+    color: #B22222;
+}
+
+.heading5 {
+    color: white;
+    font-size: 25px;
+}
+
+.bottom-container {
+    padding: 50px;
+}
