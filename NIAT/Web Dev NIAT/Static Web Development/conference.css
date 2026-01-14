@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.main-container {
+    padding: 5px;
+    font-family: Roboto;
+    margin: 10px;
+    text-align: center;
+}
+.heading {
+    font-weight: bold;
+    margin-top: 30px;
+    color: #183b56;
+}
+.image {
+    width: 400px;
+    height: 300px;
+}
+.paragraph {
+    color: #5a7184;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.main-container-conference-details {
+    padding: 10px;
+    font-family: Roboto;
+    margin: 10px;
+}
+.conference-details-heading1 {
+    font-weight: bold;
+    margin-top: 30px;
+    color: #183b56;
+    margin-bottom: 20px;
+}
+.conference-details-paragraph1 {
+    color: #5a7184;
+    text-align: center;
+}
+.conference-details-heading2 {
+    text-align: center;
+}
+.bottom-container-conference-details2 {
+    margin-left: 50px;
+}
+.bottom-container-conference-details1 {
+    margin-left: 20px;
+}
+.button-conference-details {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 120px;
+}
+.bottom-container-conference-details-control {
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}

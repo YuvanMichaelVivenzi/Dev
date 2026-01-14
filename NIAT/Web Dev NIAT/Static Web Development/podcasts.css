@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.podcasts-main-page-image-container {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    background-size: cover;
+    height: 40vh;
+    margin: 5px;
+    padding: 20px;
+}
+
+.podcasts-main-page-heading {
+    color: #ffffff;
+    font-weight: 220;
+}
+
+.podcasts-main-page-cards-container {
+    padding: 30px;
+    text-align: center;
+}
+
+.podcasts-main-page-cards-image {
+    width: 180px;
+    height: 150px;
+}
+
+.podcasts-main-page-cards-headings {
+    font-size: 20px;
+    font-weight: bold;
+    color: #151765;
+}
+
+.podcasts-main-page-cards-paragraph {
+    color: #5a7184;
+}
+
+.main-page-card-side1 {
+    margin-right: 20px;
+}
+
+.podcast-details-card-paragraph {
+    color: #ffffff;
+    margin: 10px;
+    font-size: 10px;
+}
+
+.podcasts-details-cards-container1 {
+    background-color: #151765;
+    padding: 10px;
+    margin: 10px;
+}
+
+.podcasts-details-card-heading {
+    color: #ffffff;
+    margin: 10px;
+    font-size: 25px;
+}
+
+.podcasts-details-cards-container2 {
+    padding: 10px;
+    margin: 10px;
+}
+
+.podcasts-details-card-heading2 {
+    color: #151765;
+    margin: 10px;
+    font-size: 25px;
+}
+
+.podcasts-details-card-paragraph2 {
+    margin: 10px;
+    color: #5a7184;
+}
+
+.back-button-container {
+    text-align: right;
+}
+
+.back-button {
+    background-color: #151765;
+    border-radius: 50px;
+    color: #ffffff;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-bottom: 30px;
+}

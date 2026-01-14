@@ -1,0 +1,1 @@
+# This Folder Contains Everything Related To Static Web Development.

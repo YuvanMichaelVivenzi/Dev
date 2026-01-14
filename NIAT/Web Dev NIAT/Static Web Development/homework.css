@@ -1,0 +1,8 @@
+.main-container {
+    background-image: url("https://www.georgeinstitute.org/sites/default/files/styles/image_ratio_2_1_large/public/2020-10/world-food-day-2020.png.webp?itok=-h1y_Rz0");
+    background-size: cover;
+    height: 100vh;
+}
+.button {
+    border-radius: 100px;
+}
